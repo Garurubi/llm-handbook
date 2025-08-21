@@ -1,7 +1,81 @@
 # 📰 한 주 요약
 매주 커뮤니티 리뷰를 거친, 이번 주 가장 가치있는 소식 모음입니다.
 매주 수요일 업데이트 됩니다.
-## 📆 [2025/06/23 ~ 2025/06/29] 주간 소식
+## 📆 [2025/06/30 ~ 2025/07/06] 주간 소식
+## ⭐ 5점
+
+### 1. Claude Requirements Gathering System
+요약 없음
+
+> **Why it matters:** 
+> 내용 없음
+
+## ⭐ 4점
+
+### 1. Repo Prompt
+요약 없음
+
+> **Why it matters:** 
+> 내용 없음
+
+### 2. Kimi-Researcher: An Reinforcement Learning RL-Trained Agent for Complex Reasoning and Web-Scale Search
+요약 없음
+
+> **Why it matters:** 
+> 내용 없음
+
+## ⭐ 3점
+
+### 1. I built AI agents for a year and discovered we're doing it completely wrong
+요약 없음
+
+> **Why it matters:** 
+> 내용 없음
+
+### 2. Go-Browse: A Graph-Based Framework for Scalable Web Agent Training
+요약 없음
+
+> **Why it matters:** 
+> 내용 없음
+
+### 3. Gemini CLI: An Open-Source AI Agent for Your Terminal
+요약 없음
+
+> **Why it matters:** 
+> 내용 없음
+
+## ⭐ 2점
+
+### 1. I released the most comprehensive Gen AI course for free
+요약 없음
+
+> **Why it matters:** 
+> 내용 없음
+
+### 2. Game Worlds, a generative AI platform for building interactive games
+요약 없음
+
+> **Why it matters:** 
+> 내용 없음
+
+## ⭐ 1점
+
+### 1. Writing Code Was Never The Bottleneck
+요약 없음
+
+> **Why it matters:** 
+> 내용 없음
+
+### 2. Agentic AI and Agents Tutorials and Codes/Notebooks
+요약 없음
+
+> **Why it matters:** 
+> 내용 없음
+## 🔽 지난 주간 소식
+<details>
+<summary>📆 [2025/06/23 ~ 2025/06/29] 주간 소식</summary>
+
+## 
 ## ⭐ 5점
 
 ### 1. Build a Promptbook to Empower SOC Analysts
@@ -200,8 +274,8 @@ vLLM은 경량화 툴인데, 기능에 더해지며 코드가 복잡하고 헤�
 
 > **Why it matters:** 
 > 경량화 툴을 경량화하다니! 좋다. 당장 쓸 사람들 있을 것. 그와 별개로 장기적으로 계속 쓸지는 의문이다. 유지보수가 자동으로 될 것 같지는 않다. 학습을 위한 교재로 좋겠다. 
-## 🔽 지난 주간 소식
-<details>
+
+</details><details>
 <summary>📆 [2025/06/16 ~ 2025/06/22] 주간 소식</summary>
 
 ## 
