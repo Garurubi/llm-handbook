@@ -1,7 +1,81 @@
 # 📰 한 주 요약
 매주 커뮤니티 리뷰를 거친, 이번 주 가장 가치있는 소식 모음입니다.
 매주 수요일 업데이트 됩니다.
-## 📆 [2025/06/16 ~ 2025/06/22] 주간 소식
+## 📆 [2025/06/30 ~ 2025/07/06] 주간 소식
+## ⭐ 5점
+
+### 1. Claude Requirements Gathering System
+요약 없음
+
+> **Why it matters:** 
+> 내용 없음
+
+## ⭐ 4점
+
+### 1. Repo Prompt
+요약 없음
+
+> **Why it matters:** 
+> 내용 없음
+
+### 2. Kimi-Researcher: An Reinforcement Learning RL-Trained Agent for Complex Reasoning and Web-Scale Search
+요약 없음
+
+> **Why it matters:** 
+> 내용 없음
+
+## ⭐ 3점
+
+### 1. I built AI agents for a year and discovered we're doing it completely wrong
+요약 없음
+
+> **Why it matters:** 
+> 내용 없음
+
+### 2. Go-Browse: A Graph-Based Framework for Scalable Web Agent Training
+요약 없음
+
+> **Why it matters:** 
+> 내용 없음
+
+### 3. Gemini CLI: An Open-Source AI Agent for Your Terminal
+요약 없음
+
+> **Why it matters:** 
+> 내용 없음
+
+## ⭐ 2점
+
+### 1. I released the most comprehensive Gen AI course for free
+요약 없음
+
+> **Why it matters:** 
+> 내용 없음
+
+### 2. Game Worlds, a generative AI platform for building interactive games
+요약 없음
+
+> **Why it matters:** 
+> 내용 없음
+
+## ⭐ 1점
+
+### 1. Writing Code Was Never The Bottleneck
+요약 없음
+
+> **Why it matters:** 
+> 내용 없음
+
+### 2. Agentic AI and Agents Tutorials and Codes/Notebooks
+요약 없음
+
+> **Why it matters:** 
+> 내용 없음
+## 🔽 지난 주간 소식
+<details>
+<summary>📆 [2025/06/16 ~ 2025/06/22] 주간 소식</summary>
+
+## 식
 ## ⭐ 4점
 
 ### 1. Anthropic의 멀티 에이전트 기반 연구 시스템: 아키텍처, 설계 전략, 성능 최적화
@@ -132,8 +206,8 @@ OCR 이라고 소개하고 있지만  IDP(지능형 문서 처리) 에 가까운
 
 > **Why it matters:** 
 > 내용 없음
-## 🔽 지난 주간 소식
-<details>
+
+</details><details>
 <summary>📆 [2025/06/16 ~ 2025/06/22] 주간 소식</summary>
 
 ## 식
